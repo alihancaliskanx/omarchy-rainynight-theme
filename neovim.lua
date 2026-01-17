@@ -1,13 +1,13 @@
 return {
-    {
-        "bjarneo/aether.nvim",
-        name = "aether",
-        priority = 1000,
+  {
+    "bjarneo/aether.nvim",
+    name = "aether",
+    priority = 1000,
+  },
+  {
+    "LazyVim/LazyVim",
+    opts = {
+      colorscheme = "aether",
     },
-    {
-        "LazyVim/LazyVim",
-        opts = {
-            colorscheme = "aether",
-        },
-    },
+  },
 }
