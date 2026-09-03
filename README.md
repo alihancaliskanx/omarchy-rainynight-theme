@@ -2,8 +2,6 @@
 
 A beautiful, dark, Catppuccin-inspired theme designed specifically for modern [Omarchy](https://omarchy.org/) systems.
 
-<img src="preview.png" alt="Rainy Night Preview" width="800">
-
 ## Installation
 
 Install the theme directly using Omarchy's built-in theme manager:
